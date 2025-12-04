@@ -1,4 +1,4 @@
-# ⏱️ Deepak's Time Tracker
+# ⏱️ Anil's Time Tracker
 
 A sleek, professional time tracking application built with vanilla HTML, CSS, and JavaScript. Perfect for hosting on GitHub Pages.
 
@@ -138,4 +138,4 @@ MIT License - feel free to use and modify!
 
 ---
 
-Built with ❤️ by Deepak @ FSH World
+Built with ❤️ by Anil Prajapat
